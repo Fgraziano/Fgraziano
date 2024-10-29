@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fgraziano
-- 👀 I’m interested in Biostatistics
-- 📫 francesca.graziano@unimib.it
+- 👀 I’m a researcher in biostatistics
+- 📫 francesca.graziano@unimib.it or francesca.graziano@irccs-sangerardo.it
 
 <!---
 Fgraziano/Fgraziano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
